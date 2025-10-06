@@ -13,9 +13,11 @@ I’m a certified IBM Software Engineer 🎓 and currently working on more compl
 Right now, I’m expanding my skills in more complex projects and exploring AI technologies to stay ahead in modern software development.
 
 🚀 What drives me:
-
+ 
 -Continuous learning and problem-solving
+
 -Collaborating on real-world impactful projects
+
 -Writing clean, maintainable, and scalable code
 
 📭 Reach out for help with: Web Development, Python, Java, HTML, CSS, JavaScript, Git
